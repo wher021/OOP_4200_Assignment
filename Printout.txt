@@ -1,0 +1,8 @@
+Desktops
+=============
+PID=4006   Pname=myDesktop   Quantity=2
+PID=4005   Pname=Compaq_std   Quantity=3
+PID=4004   Pname=Asus_mini   Quantity=4
+PID=4003   Pname=Willy   Quantity=5
+PID=4002   Pname=HP_mini   Quantity=2
+PID=4001   Pname=IBM_mini (Out of Stock!)   Quantity=0

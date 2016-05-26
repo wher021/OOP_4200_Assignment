@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1412625579 source:c:\users\willy\documents\codeblocks\masteroop\elkjopassignment\main.cpp
+	<iostream>
+	"Product.h"
+	"Movie.h"
+	"Cellphones.h"
+	"Computer.h"
+	<list>
+	<fstream>
+	<string>
+
+1412599057 c:\users\willy\documents\codeblocks\masteroop\elkjopassignment\product.h
+
+1412598727 c:\users\willy\documents\codeblocks\masteroop\elkjopassignment\movie.h
+
+1412598760 c:\users\willy\documents\codeblocks\masteroop\elkjopassignment\cellphones.h
+
+1412598788 c:\users\willy\documents\codeblocks\masteroop\elkjopassignment\computer.h
+
